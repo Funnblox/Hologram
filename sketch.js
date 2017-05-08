@@ -25,7 +25,7 @@ function setup() {
  //list different videos
  fingers2 = createVideo(['Gold Fish Animation (HD) Loop.mp4']);
  fingers = createVideo(['White bird flapping on black background shooting with high speed camera phantom flex.mp4'])
- fingers3 = createVideo(['Time-Lapse Watch Flowers Bloom Before Your Eyes.mp4'])
+ fingers3 = createVideo(['After effect Sci Fic HUD Gadget Black Background Animation.mp4'])
  fingers4 = createVideo(["Rob Meyer's Re-Edited Princess Leia Message.mp4"])
  //button
  button = createButton(i);
